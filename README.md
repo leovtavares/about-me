@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Leonardo Tavares" width="1024" />
+</p>
+
 [Português](#português) | [English](#english) | [Español](#español)
 
 <a id="português"></a>
